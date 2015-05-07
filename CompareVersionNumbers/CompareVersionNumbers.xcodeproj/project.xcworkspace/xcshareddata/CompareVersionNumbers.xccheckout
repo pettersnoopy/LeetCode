@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9284F4DF-09FE-4E59-A436-04BA502BFA51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CompareVersionNumbers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B70D90AF-5967-481E-849C-C1BE29E3A01A</key>
+		<string>https://github.com/pettersnoopy/LeetCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CompareVersionNumbers/CompareVersionNumbers.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B70D90AF-5967-481E-849C-C1BE29E3A01A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pettersnoopy/LeetCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B70D90AF-5967-481E-849C-C1BE29E3A01A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B70D90AF-5967-481E-849C-C1BE29E3A01A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LeetCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
